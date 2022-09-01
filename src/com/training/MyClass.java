@@ -7,3 +7,6 @@ public class MyClass {
 	}
 
 }
+
+
+//MAVEN: It is a build tool also it will resolve your dependencies
